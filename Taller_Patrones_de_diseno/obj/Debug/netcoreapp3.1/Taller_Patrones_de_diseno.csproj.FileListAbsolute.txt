@@ -1,0 +1,13 @@
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\bin\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.exe
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\bin\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.deps.json
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\bin\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.runtimeconfig.json
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\bin\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.runtimeconfig.dev.json
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\bin\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.dll
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\bin\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.pdb
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.csprojAssemblyReference.cache
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.AssemblyInfo.cs
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.dll
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.pdb
+C:\Users\Juan\Documents\Ing. en Sistemas - IUSH\Arquitectura Software\Taller_Patrones_de_diseno\Taller_Patrones_de_diseno\obj\Debug\netcoreapp3.1\Taller_Patrones_de_diseno.genruntimeconfig.cache
